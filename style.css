@@ -9,6 +9,15 @@ padding:80px;
 margin-left: 10px;
 text-align:left;
 }
+.clearfix2{
+    clear: both;
+padding:80px;
+margin-left: 10px;
+text-align:left;
+    }
+.clearfix2 a{
+    color: black;
+    }
 
 .clearfix1 button{
     background-color: purple;
@@ -335,5 +344,5 @@ nav ol li{
 
 }
 .clearfix button a{
- color: black;
+ color: white;
 }
