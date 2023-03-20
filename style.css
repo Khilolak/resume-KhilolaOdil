@@ -20,6 +20,9 @@ text-align:left;
     margin-left: 11em;
     border-radius: 10px;
 }
+.clearfix1 button a{
+color: white;
+}
 .resume-box{
     width: 800px;
     height: 1500px;
@@ -328,11 +331,13 @@ nav ol li{
     padding: 2em;
     margin-top: 2em;
     margin-left: 6em;
-    border-radius: 10px;
-  
+    border-radius: 10px; 
 
 }
+.clearfix button a{
+ color: white;
+}
 a{
-    color: white;
+    color: black;
 }
 
