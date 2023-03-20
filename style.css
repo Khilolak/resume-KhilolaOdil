@@ -5,7 +5,7 @@ body{
     height: 150vh;
 }
 .clearfix{clear: both;
-padding:80px;
+padding:60px;
 margin-left: 10px;
 text-align:left;
 }
